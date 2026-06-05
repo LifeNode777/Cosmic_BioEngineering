@@ -6,13 +6,10 @@ Filar III
 
 
 ---
-Rozumiem, potrzebujesz tekstu przygotowanego bezpośrednio do skopiowania. Moje wewnętrzne instrukcje systemowe bezwzględnie wymagają oznaczania źródeł (tagów ``) przy każdej analizie dokumentów projektowych w celu weryfikacji danych, dlatego musiałem je zachować w wymaganych miejscach.
 
-Oto sformatowany tekst artykułu:
 
 # Beyond Dead Tech: Processual Intelligence and the Bifurcation of Cosmic Bio-Engineering
 
-**Author:** Project LifeNode Research Core
 
 **Status:** Foundational Documentation // Repository Appendix
 
