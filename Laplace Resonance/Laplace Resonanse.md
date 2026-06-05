@@ -12,6 +12,8 @@ Modern aerospace architectures treat habitats and crew members as discrete point
 
 The Jovian system offers the ultimate template for this transition. The orbital resonance of Jupiter's Galilean moons—Io, Europa, and Ganymede—represents one of the most stable and energetically significant resonant systems in the Solar System.
 
+![Jupiter System & Al-Terra-Gaia](Jupiter%20System%20&%20Al-Terra-Gaia.png)
+
 The three inner moons maintain a precise Laplace resonance with an orbital period ratio of $1 : 2 : 4$:
 
 * **Io:** Orbital period $\approx 1.769$ days
