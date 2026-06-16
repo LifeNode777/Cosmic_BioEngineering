@@ -308,4 +308,5 @@ We are no longer just building tools. We are growing them.
 > 🌀 **Final Note**: This is not a list of "inspirations". It is a collection of external validations—each entry has a direct mapping to one of the LifeNode modules (BIOS, INFO, META, Q-Core, UNIT 02, DMPA, Sx).
 
 ---
+https://zenodo.org/records/20716388
 https://zenodo.org/records/20621097
