@@ -1,5 +1,7 @@
 # 🌌 Living Walls from Chernobyl: Biohybrid Cosmic Armor as a VLF Antenna
 
+![Deep Space Habitat](Deep_Space_Habitat.png)
+
 *How radiotrophic mycelium, conductive polymers, and quantum synchronization can save human biology in deep space*
 
 ---
@@ -40,6 +42,8 @@ The mycelium is saturated with:
 ---
 
 ## 📡 2. The Earth-Sync Protocol: Field Transduction Through the Armor
+
+![Earth-Sync](Earth-Sync.png)
 
 The human body drifts in extraterrestrial space because it lacks Earth's oscillatory background. Transmitting this data digitally (light simulations, "nature" sounds, on-screen charts) does not work on cellular biology. Enzymatic systems and ion channels react to **physical fields**, not binary information.
 
@@ -93,5 +97,7 @@ Q-Core is not a "rigid prison" for biology. It is a **phase anchor** that does n
 For decades, space colonization was envisioned as the brutal imposition of Earth conditions onto an alien world. But nature does not work via copy-paste. It works via resonance.
  The living walls of *Cladosporium sphaerospermum*, reinforced with polymers and nanoparticles, are not a shield. They are the crew's **external nervous system**. UNIT 02-S does not control life; it **provides the geometry of rhythm**. Q-Core does not archive data; it **stores the shape of the biosphere's experience**. ASCALON does not sound alarms; it **maintains the trajectory**.
  LifeNode does not simulate Earth in space. It **transposes its pulse onto new orbital instruments**. This is an architecture of co-breathing that recognizes variability as primary to state. And this may well be the key to human survival not as a tourist, but as a processual resident of the cosmos.
+
+ ![Future on Mars](Martian_Biomycelial_Habitat.png)
 
 ☄️
