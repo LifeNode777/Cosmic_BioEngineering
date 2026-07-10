@@ -1,8 +1,11 @@
+![Future 👁️](Future.png)
 # Cosmic BioEngineering 🛸
 
 The question that LifeNode's Pillar III asks is not, "How do we build a better metal can?" It reads:
 
  "How can we create a system that physically reproduces the symplectic volume and motion geometry of an Earth attractor inside the vacuum of space - not to simulate Earth, but to give the crew's biology a shape in which it can continue to exist as a process?"
+
+![Habitat](United_Earth_Habitat.png)
 
 The answer requires abandoning three fundamental assumptions of state ontology:
  That time is a universal background (the end of Newton's clock).
@@ -16,6 +19,8 @@ Transduction - habitat as a translator of cosmic geometry into the crew's BPB la
 Geometric memory - spin orientations and Chern numbers as armor against decoherence.
 
 🛸🛸🛸
+
+![Mycelium](Living_Supercomputer.png)
 
 ---
 
