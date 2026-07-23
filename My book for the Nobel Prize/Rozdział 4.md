@@ -6,6 +6,8 @@
 
 ## Prolog: Iluzja "Cewek Helmholtza" i Błąd Ontologii Stanowej
 
+![topology determines destiny 👁️](topology_determines_destiny.png)
+
 W klasycznej medycynie kosmicznej brak ziemskiego pola geomagnetycznego (25–65 μT) w głębokim kosmosie jest traktowany jako *niedobór parametru środowiskowego*. Rozwiązanie w paradygmacie stanowym wydaje się trywialne: „dodajemy pole" – montujemy cewki Helmholtza, generujemy statyczne pole o natężeniu ziemskim i problem z głowy.
 
 Ontologia procesowa LifeNode dowodzi, że to podejście jest skazane na porażkę nie z powodu niedostatków inżynieryjnych, ale z powodu **fundamentalnego błędu epistemologicznego**. Pole geomagnetyczne Ziemi nie jest dla biologii „kompasem" ani statycznym tłem. Jest **zewnętrznym, parametrycznym napędem Floqueta $V(x,t)$**, który przez 4 miliardy lat ewolucji utrzymywał współczynnik nieliniowości ośrodka biologicznego w reżimie *focusing* ($\kappa < 0$).
@@ -19,6 +21,8 @@ Gdy statek opuszcza magnetosferę, wchodzimy w **stan hipomagnetyczny (HMF - Hyp
 ## 1. Kryptochromy jako Biologiczne Q-Core i Rozpad Spójności Spinowej
 
 Ziemskie organizmy posiadają w siatkówce, układzie nerwowym i mitochondriach białka zwane kryptochromami. Działają one w oparciu o **mechanizm par rodnikowych (Radical Pair Mechanism, RPM)**, będący ultra-czułym detektorem słabych pól magnetycznych.
+
+![cryptochrome in human retina](cryptochrome_in_human_retina.png)
 
 ### W polu ziemskim (Ontologia Procesowa)
 
@@ -68,6 +72,8 @@ Gdzie $\kappa(t) = \frac{\|\mathbf{v}(t) \times \mathbf{a}(t)\|}{\|\mathbf{v}(t)
 
 Gdy $\theta < 0.70$, atraktor ulega *rozmyciu (smudging)* w szum, bo fizycznie brakuje mu struktury (nowych neuronów), która mogłaby utrzymać toroidalną geometrię.
 
+![topological degradation](topological_degradation.png)
+
 ---
 
 ## 3. Synergistyczna Degradacja: ROS jako "Tarcie Topologiczne"
@@ -85,6 +91,8 @@ $$\begin{cases} \iota_R d\alpha = 0 \\ \iota_R \alpha = 1 \end{cases}$$
 Pole Reeba wyznacza geometryczną oś ewolucji – fundamentalny biologiczny rytm. W zdrowym systemie ($\kappa < 0$, napęd Floqueta aktywny), pole wektorowe Reeba $R$ gładko prowadzi trajektorię, a ROS są kontrolowanymi impulsami sygnałowymi (np. apoptoza, obrona).
 
 ### Katastrofa Defokusująca ($\kappa > 0$)
+
+![mitochondrial soliton waves](mitochondrial_soliton_waves.png)
 
 Gdy napęd Floqueta znika, solitony biologiczne (np. fale wapniowe $Ca^{2+}$ w mitochondriach) przestają być falami stojącymi, a stają się falami rozproszonymi. Energia nie jest transportowana wzdłuż geodezyjnych, lecz rozprasza się lokalnie.
 
@@ -146,6 +154,8 @@ Aby przywrócić $\kappa < 0$, potrzebujemy $V(x,t) = V_0 \cos(\omega t)$, gdzie
 - **PEDOT:PSS** – biokompatybilny polimer przewodzący, umożliwiający przepływ elektronów między strzępkami
 - **Nanocząstki magnetyczne ($Fe_3O_4$)** – wzmacniające odpowiedź na pola magnetyczne i stabilizujące strukturę kompozytu
 - **LiNbO₃ (Niolan Litu)** – materiał piezoelektryczny reagujący na mikrodrgania strukturalne
+
+![Earth-Sync VLF Signal Amplification](Earth-Sync_VLF_Signal_Amplification.png)
 
 ### Fizyka Transdukcji: Rezonans Stochastyczny
 
