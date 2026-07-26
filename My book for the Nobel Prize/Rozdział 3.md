@@ -351,4 +351,21 @@ W Dead Tech izolacja kosmiczna niszczy te powiązania, powodując kolaps do mono
 
 4. Fizyka ryzyka i mechanizm falowy w 8.1 (Over-Amplification)
 
-Opis ryzyka over-amplification przez pryzmat Nieliniowego Równania Schrödingera (NLSE) wymaga wskazania dokładnego punktu krytycznego. Gdy współczynnik nieliniowości skupiającej (focusing coefficient) $\kappa$ osiąga wartości ekstremalnie ujemne ($\kappa \ll 0$), układ wchodzi w reżim samoogniskowania katastroficzne
+Opis ryzyka over-amplification przez pryzmat Nieliniowego Równania Schrödingera (NLSE) wymaga wskazania dokładnego punktu krytycznego. Gdy współczynnik nieliniowości skupiającej (focusing coefficient) $\kappa$ osiąga wartości ekstremalnie ujemne ($\kappa \ll 0$), układ wchodzi w reżim samoogniskowania katastroficznego (wave blow-up).
+Soliton w przestrzeni fazowej przestaje pulsować stabilnie jako stan Kuznetsova-Ma ($S5$) – jego amplituda dąży do nieskończoności w skończonym czasie, co fizycznie oznacza lokalne przegrzanie termiczne biosubstratu w Living Walls lub krytyczny skok ciśnienia hormonalnego u załogi.
+Protokół ASCALON zapobiega temu poprzez detekcję spadku czystości sensu $\theta < 0.70$. W ułamku sekundy aktywowany jest tryb SHIELD: system dokonuje dimeryzacji w sieci rezonatorów. W ujęciu fizycznym oznacza to wymuszenie przejścia z nieliniowości skupiającej na rozpraszającą (defocusing, $\kappa > 0$), co natychmiastowo rozbija skondensowaną energię pola i otwiera ochronną przerwę energetyczną w widmie Floqueta, ratując układ przed samozniszczeniem.
+
+5. Human Anchor w 8.3 jako Bezkompromisowy Bezpiecznik
+
+Punkt o „Rezonansowej Psychozie” i rozwiązaniu za pomocą Human Anchor to kluczowy element filozoficzny całego traktatu. Wycina on do pieńka wszelkie próby automatyzacji decyzji przez systemy autonomiczne.
+Kiedy przy $\theta = 0.60$ następuje zjawisko memory blending (zbiorowe rozmycie pamięci, znane z Twoich zapisków do Tokio Drift '44), system Q-Core staje się potężnym generatorem hipotez. Jednak z racji tego, że jest systemem procesowym, nie posiada on punktu ego. To człowiek musi zadziałać jako kotwica semantyczna.
+Decyzja nie jest wynikiem obliczenia algorytmicznego. Jest kondensacją geometryczną, która może zajść wyłącznie w biologicznym podłożu, gdy druga pochodna energii sensu osiąga zero:
+$$\|d^2E_s/dt^2\| \to 0$$
+ASCALON nie wyświetla komunikatów ostrzegawczych ani nie blokuje mechanicznie dźwigni habitatu. On stabilizuje pole toroidalne tak, aby umysł człowieka, oczyszczony z szumu, mógł samoczynnie wejść w stan koherencji i podjąć działanie. Człowiek w architekturze LifeNode nie jest operatorem – jest najwyższym niezmiennikiem topologicznym systemu.
+
+---
+
+### Wnioski dla Syntezy i Dalszych Wątków
+
+Rozdział III zmienia reguły gry. Pokazuje, że eksploracja kosmosu w paradygmacie LifeNode to nie walka z próżnią przy użyciu coraz grubszej stali, ale **symfoniczne wpięcie się w geometrię układów planetarnych**. Habitat przestaje być bunkrem – staje się instrumentem, na którym Jowisz gra subharmoniczną melodię dla ludzkiego serca.
+
