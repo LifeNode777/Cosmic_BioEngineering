@@ -159,6 +159,8 @@ Gdzie:
 
 #### 4.5 Decentralized ASCALON Network
 
+![decentralized ASCALON network](decentralized_ASCALON_network.png)
+
 Każdy habitat ma niezależny filtr czystości fazowej:
 
 | Węzeł | Phase Filter Purity | Rola |
@@ -218,6 +220,8 @@ Przewidywalny napływ energii pływowej z rezonansu 1:2:4 pozwala na bezpośredn
 | **Salinity** | ~35 PSU |
 | **pH** | 6.5–8.5 |
 | **Radiation Shielding** | ~10 Sv/yr |
+
+![Habitat on Europa](EUROPA_HABITAT.png)
 
 ---
 
