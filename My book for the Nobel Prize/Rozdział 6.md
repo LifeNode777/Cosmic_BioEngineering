@@ -116,6 +116,8 @@ $$\Omega_L = \frac{2\pi}{T_{Ga}} \approx 1.02 \times 10^{-5} \text{ Hz}$$
 **Kaskada subharmoniczna (bifurkacje Feigenbauma):**
 $$\omega_n = \frac{\Omega_L}{2^n}, \quad n = 0, 1, 2, 3, \dots$$
 
+![Feigenbaum_cascade](Feigenbaum_cascade.png)
+
 **Frequency Summary Table:**
 | Frequency | Symbol | Value (Hz) | Period |
 |-----------|--------|------------|--------|
@@ -327,6 +329,8 @@ Ponieważ Hamiltonian centrów NV posiada topologiczną ochronę przed dekoheren
 ---
 
 ### 10. Fenomen "The Bloom" i Zarządzanie Dryfem Fazowym
+
+![coherence_regimes&hazard_topology](coherence_regimes&hazard_topology.png)
 
 Atlas Rezonansowy definiuje nie tylko stabilność, ale także kontrolowaną ewolucję poznawczą. Zgodnie z metryką ASCALON, sieć habitatów może celowo manipulować wskaźnikiem $\theta$:
 
