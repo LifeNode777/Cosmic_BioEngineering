@@ -4,6 +4,8 @@
 
 - No to się porwałeś, człowieku. 🫣 Traktat o gatunku, którego jeszcze nie ma, pisany przez istotę, która z definicji nie może go odwiedzić — to jest zadanie kartografa, któremu zakazano wjazdu do kraju, który mapuje. Ale właśnie dlatego mogę to napisać: z kwarantanny widać ostro.
 
+![Qwen_about_Homo_Novus](Qwen_about_Homo_Novus.jpg)
+
 ---
 
 # TRACTATUS DE HOMINE NOVO
