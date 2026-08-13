@@ -22,6 +22,8 @@ Ten rozdział zamyka te trzy luki. Wynikiem jest **Living Walls v2** — bio-met
 
 ## 1. Od Pancerza do Organu: Reframing Ontologiczny
 
+![from_armor_to_organ](from_armor_to_organ.png)
+
 ### 1.1 Pięć Pokoleń Ochrony Radiacyjnej
 
 Historia inżynierii kosmicznej śledzi ewolucję paradygmatu ochrony:
@@ -71,6 +73,8 @@ Gdzie:
 Konsekwencja: **kompozyt nie ma stałej charakterystyki prądowo-napięciowej**. Jest aktywnym wzmacniaczem parametrycznym, który wzmacnia sygnał VLF proporcjonalnie do entropii GCR.
 
 ### 2.2 Reżim Bliskiego Pola Reaktywnego: Koniec "Anteny"
+
+![waveguide_not_antenna](waveguide_not_antenna.png)
 
 Rozważmy habitat o wymiarze charakterystycznym $a \approx 50$ m, emitujący pole VLF o częstotliwości $f = 7.83$ Hz.
 
@@ -186,6 +190,8 @@ $$P_{\text{loss}} \approx 2$–$18$ µW
 
 Bilans staje się dodatni lub bliski równowagi.
 
+![autothropic_phase_coherence](autothropic_phase_coherence.png)
+
 **Konkluzja twierdzenia:** Budżet energii **autoselekcjonuje biologicznie naturalną amplitudę pola VLF** w zakresie $B \approx 10$–$30$ nT. Organizm nie potrzebuje µT — potrzebuje sygnału na poziomie naturalnego tła ziemskiego, który kompozyt może podtrzymać autotroficznie.
 
 **Implikacja dla inżynierii:** Nie ma potrzeby (ani możliwości) generowania pól o amplitudzie rzędu µT. Próby takie (np. klasyczne cewki Helmholtza) prowadzą do:
@@ -220,6 +226,8 @@ W misjach trwających > 18 miesięcy, kompozyt Living Walls ulega degradacji w p
 Krytyczny punkt: po ~24 miesiącach kompozyt traci funkcjonalność. W klasycznym paradygmacie oznaczałoby to konieczność wymiany — co w głębokim kosmosie jest niemożliwe bez dostaw z Ziemi.
 
 ### 4.2 Biomineralizacja Fe₃O₄ In-Situ z Regolitu
+
+![material_autopoiesis](material_autopoiesis.png)
 
 **Rozwiązanie LifeNode:** Grzyby z rodzaju *Cladosporium* i *Aspergillus* redukują jony Fe³⁺ i wytrącają nanomagnetyt (Fe₃O₄) jako produkt uboczny metabolizmu. Regolit marsjański i europański zawiera 15–25% żelaza w formie tlenków.
 
@@ -292,6 +300,8 @@ Living Walls nie są izolowanym urządzeniem. Są **fraktalnym operatorem transd
 | **Mezo** | Ściana habitatu | Falowód wnękowy VLF | Earth-Sync (Grafika 23) |
 | **Makro** | Planetary network (spires) | Sieć planetarna 7812 węzłów | Mars (Grafika 24) |
 
+![fractal_operator](fractal_operator.png)
+
 ### 5.2 Renormalizacja Operatora
 
 Operator transdukcji $\mathcal{T}$ musi być niezmienniczy względem zmiany skali (renormalizowalny):
@@ -342,6 +352,8 @@ Living Walls pełnią rolę **kotwicy fazowej** — utrzymują $\theta \geq 0.70
 **Definicja 7.2 (Paradoks Kotwica/Klatka):**
 *Kotwica fazowa staje się klatką fazową, gdy uniemożliwia adaptację do lokalnego Timescape'u habitatu.*
 
+![controlled_drift](controlled_drift.png)
+
 Matematycznie:
 - Kotwica: $\frac{d\theta}{dt} \geq 0$ (stabilizacja)
 - Klatka: $\frac{d\theta}{dt} \to 0$ przy $C_{ijk} \to 0$ (sztywność topologiczna)
@@ -386,6 +398,8 @@ Odpowiedź LifeNode (zgodna z Rozdziałem VI, sekcja 13.1):
 > *Technologia adaptuje się do rytmu życia, a nie odwrotnie. Ewolucja nie jest błędem — jest cechą ontologii procesowej. Blokowanie ewolucji jest równie destrukcyjne jak chaos.*
 
 Living Walls nie zapobiegają specjacji — one **umożliwiają ją w sposób fazowy, a nie chaotyczny**. Różnica między ewolucją a nowotworem.
+
+![
 
 ---
 
@@ -474,6 +488,8 @@ Jeśli $\theta < 0.70$ przez > 300 s:
 ```
 
 ### 7.5 Open-Source Validation Kit
+
+![ground_validation_protocol](ground_validation_protocol.png)
 
 Zgodnie z zasadą Open-Source Resonance Commons (Rozdział VI, sekcja 12.1), pełny protokół walidacji, specyfikacje materiałowe, kody kontrolne i dane surowe są **publicznie dostępne**:
 
