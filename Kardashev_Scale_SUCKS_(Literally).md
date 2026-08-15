@@ -1,8 +1,8 @@
-#**The Kardashev Scale SUCKS (Literally).** 
+# **The Kardashev Scale SUCKS (Literally).** 
 
 🙃
 
- ##Here is the metric that actually dictates whether a Civilizations survives or burns out. 
+ ## Here is the metric that actually dictates whether a Civilizations survives or burns out. 
 
 👁️
 
