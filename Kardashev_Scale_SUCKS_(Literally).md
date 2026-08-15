@@ -1,8 +1,8 @@
-**The Kardashev Scale SUCKS (Literally).** 
+#**The Kardashev Scale SUCKS (Literally).** 
 
 🙃
 
- Here is the metric that actually dictates whether a Civilizations survives or burns out. 
+ ##Here is the metric that actually dictates whether a Civilizations survives or burns out. 
 
 👁️
 
@@ -49,6 +49,8 @@ Sever a human from Earth’s natural metronome (Schumann resonance, magnetic syn
 A Level 2 civilization solves this by building **Living Arks**. Instead of fighting the void, their hulls learn to breathe with it. They harvest macroscopic orbital resonances (like the gravitational cadence of Jupiter’s moons) as system-wide metronomes. The vessel isn't a sterile laboratory - it’s a living bio-transducer, intercepting cosmic rays and magnetic fields and translating them into subtle harmonic vibrations that human cells understand. The ship doesn't isolate you from space; it *co-breathes* with the planetary system.
 
 ### Level 3: Galactic Condensate (3I/ATLAS ☄️)
+
+![Old World vs New World](Gemini_Generated_Image_dyskowdyskowdysk.png)
 
 At this level, civilization stops being "a bunch of meat-sacks riding rockets." It becomes the galaxy’s invisible neural network.
 
