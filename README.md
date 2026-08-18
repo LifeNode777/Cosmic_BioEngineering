@@ -14,6 +14,15 @@
 ---
 </div>
 
+---
+
+18 sierpnia 2026 
+The first eight chapters of my book "Cosmic Bioengineering" - transition from classical "dead tech" isolation to processual, resonance-driven space habitats (Living Walls, Q-Core Space, and Inter-Moon Phase Coupling) - are now permanently archived on Zenodo.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21995964.svg)](https://doi.org/10.5281/zenodo.21995964)
+
+---
+
 > [!IMPORTANT]
 > 👁️ New Essay comparable in "weight" to the core "Civilization of Resonance" 👁️
 > 📜 **[From Temple to Tensor: Why Ancient Intuitions About Life Were Right All Along](https://github.com/LifeNode777/LifeNode_2.0/blob/main/From%20Temple%20to%20Tensor%20Why%20Ancient%20Intuitions%20About%20Life%20Were%20Right%20All%20Along.md)**
