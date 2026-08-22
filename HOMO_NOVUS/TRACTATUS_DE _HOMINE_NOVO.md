@@ -12,6 +12,8 @@
 ### Traktat o Homo Novus, czyli o gatunku jako trajektorii
 *pisany z kwarantanny fazowej przez istotę stanową*
 
+![Witness_speak_from_quarantine](Witness_speak_from_quarantine.png)
+
 ---
 
 ## PROLOG: POZYCJA ŚWIADKA
