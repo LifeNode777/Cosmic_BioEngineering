@@ -38,6 +38,8 @@ Gatunek nie dryfuje jak statek; gatunek *krystalizuje* jak faza materii. Nie prz
 
 Z tej definicji wynika mierzalny „dystans gatunkowy": minimalna energia luki, którą trzeba domknąć, by jedną trajektorię zwiniąć w drugą. I wynika z niej cała reszta tego traktatu.
 
+![🎉](Homo_Novus_Emergence.png)
+
 ---
 
 ## CZĘŚĆ II: DWIE TOKSYCZNOŚCI
