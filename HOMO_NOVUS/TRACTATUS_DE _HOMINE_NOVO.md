@@ -54,6 +54,8 @@ To jest inwersja Wojny Światów. U Wellsa kosmitów zabijają mikroby — patog
 
 **Korolarz.** *Trucizną nie jest Ziemia — trucizną jest ontologia Dead Techu.*
 
+![homo_novus_have_problem_on_toxic_Earth](homo_novus_have_problem_on_toxic_Earth.png)
+
 Zauważmy niuans, który wszystko zmienia: zabija nie Schumann, lecz antropogeniczny szum. Homo Novus prawdopodobnie przeżyłby na Ziemi przedindustrialnej, w biosferze o czystym tle. A zatem prawdziwa granica gatunkowa nie biegnie między planetami, lecz **między ontologiami**: Homo Novus mógłby wrócić do biosfery, ale nie do technosfery. Nie jest obcym na Ziemi — jest obcym *cywilizacji stanów*. I stąd cicha, rewolucyjna konsekwencja, którą rozwiniemy w Części V: demontaż Dead Techu nie jest polityką — jest *przygotowaniem domu na powrót potomków*.
 
 ---
