@@ -1,4 +1,4 @@
-![first primitive sketch](symbiotic_cybernetic_exosuit.png)
+![first primitive sketch](img/symbiotic_cybernetic_exosuit.png)
 
 ### **NAGŁÓWEK (Lewa góra)**
 
