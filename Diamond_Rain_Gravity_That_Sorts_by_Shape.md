@@ -4,6 +4,8 @@
 
 ---
 
+![falling_up_WTF?😆](img/falling_up_WTF.png)
+
 ## Prologue: Rain That Does Not Fall Down
 
 On Earth, rain has one property we take for granted: it falls down. A water droplet is heavier than air, so gravity pulls it toward the surface. This is the intuition with which we build all of engineering — from gutters to hydroelectric turbines.
@@ -25,6 +27,8 @@ The experiment is brutal in its simplicity: a small piece of diamond is struck b
 Three things came out of that snapshot, and none of them is trivial.
 
 **First:** diamond remains diamond all the way to the moment of melting. No intermediate phase, no "pre-melting," no blurring of structure. The crystal holds its topology until the very last instant, then jumps. The mainstream searched for a transitional phase for twenty years. Nature said: there is none. 🖕🏻
+
+![theoretically_impossible_department_xD](img/theoretically_impossible_department_xD.png)
 
 **Second:** upon melting, density increases. Solid carbon floats on liquid carbon. This is the same anomaly we know from water and ice — ice floats on water because its crystalline lattice is less dense than the liquid. In the case of carbon, this anomaly occurs at pressures of millions of atmospheres and temperatures of thousands of kelvins. Packing geometry wins over naive energetics.
 
@@ -117,6 +121,8 @@ A habitat that wants to survive in space must learn this conversation. Not by im
 Diamond rain does not fall down. Diamond rain **converses**.
 
 We must learn to listen. 👁️
+
+![conversation_between_phases_of_matter](img/conversation_between_phases_of_matter.png)
 
 ---
 
