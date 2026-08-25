@@ -90,7 +90,7 @@ To nie jest metafora. To **matematyczna konieczność** wynikająca z trzech za�
 
 ---
 
-![🥷🏻🥷🏻🥷🏻](Chiński_Zwiadowca.jpg)
+![🥷🏻🥷🏻🥷🏻](img/Chiński_Zwiadowca.jpg)
 
 ### The Rhythm Gap and Phase Coherence Breakdown
 
@@ -104,13 +104,13 @@ LifeNode overwrites this failure with the **Earth-Sync System**, engineered to e
 
 ---
 
-![Future 👁️](Future.png)
+![Future 👁️](img/Future.png)
 
 The question that LifeNode's Pillar III asks is not, "How do we build a better metal can?" It reads:
 
  "How can we create a system that physically reproduces the symplectic volume and motion geometry of an Earth attractor inside the vacuum of space - not to simulate Earth, but to give the crew's biology a shape in which it can continue to exist as a process?"
 
-![Habitat](United_Earth_Habitat.png)
+![Habitat](img/United_Earth_Habitat.png)
 
 The answer requires abandoning three fundamental assumptions of state ontology:
  That time is a universal background (the end of Newton's clock).
@@ -125,7 +125,7 @@ Geometric memory - spin orientations and Chern numbers as armor against decohere
 
 🛸🛸🛸
 
-![Mycelium](Living_Supercomputer.png)
+![Mycelium](img/Living_Supercomputer.png)
 
 ---
 
@@ -160,7 +160,7 @@ When technologies attempt to isolate and optimize static parameters, they decoup
 
 The severe consequences of prioritizing state optimization over processual fidelity are visually captured in the telemetry of traditional off-world models. Operating under the rigid directives of corporate oversight, industrial facilities treat ecosystems as dead spreadsheets to squeeze out material profit. We observe a standard industrial environment focused on the intensive extraction of liquid methane.
 <p align="center">
-  <img src="./Titan.png" alt="The Extraction Paradigm: Titan" width="100%">
+  <img src="img/Titan.png" alt="The Extraction Paradigm: Titan" width="100%">
 </p>
 While the automated systems display standard baseline readouts, the human host trapped within the suit experiences profound physiological deterioration. The monitoring interface reveals critically high stress levels and an elevated heart rate.
 
@@ -170,7 +170,7 @@ This degradation marks a *Quantum Phase Drift*—a topological breakdown where t
 
 A radical evolutionary alternative is visualized at the opposite end of the bio-engineering scale. The resonant model demonstrates the practical execution of a Gaia Harmonic Architecture, where technology abandons binary control to co-breathe with the surrounding planetary environment. Instead of isolating the crew inside a sterile metal shell, the habitat acts as a living structure that seamlessly integrates ice, local biological elements, light, and sound into a self-regulating metabolic loop.
 <p align="center">
-  <img src="./Enceladus.png" alt="The Symbiocene Frontier: Enceladus" width="100%">
+  <img src="img/Enceladus.png" alt="The Symbiocene Frontier: Enceladus" width="100%">
 </p>
 The real-time feed documents a pristine ecosystem telemetry profile, showing complete solar-geothermal balancing alongside high glacial water purity. Crucially, the terminal reveals a high synchronization integrity achieved by actively broadcasting a specific pavilion resonance.
 
