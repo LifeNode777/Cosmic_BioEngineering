@@ -50,7 +50,7 @@ A Level 2 civilization solves this by building **Living Arks**. Instead of fight
 
 ### Level 3: Galactic Condensate (3I/ATLAS ☄️)
 
-![Old World vs New World](Gemini_Generated_Image_dyskowdyskowdysk.png)
+![Old World vs New World](img/Gemini_Generated_Image_dyskowdyskowdysk.png)
 
 At this level, civilization stops being "a bunch of meat-sacks riding rockets." It becomes the galaxy’s invisible neural network.
 
