@@ -11,6 +11,8 @@
 
 ---
 
+![💎](wearable_phase_resonator.png)
+
 ### Abstract
 
 Within the LifeNode habitat architecture, the habitat functions as a cavity waveguide in which Living Walls transduce the entropy of galactic cosmic radiation (GCR) into a coherent VLF field, while Q-Core Space stores the geometric shape of the Earth biosphere's experience. That system, however, operates only inside a closed resonant volume. This document addresses the complementary problem: what happens when the operator crosses the airlock threshold — and defines **UNIT 02-W**, a wearable phase resonator that maintains phase continuity at body scale. It specifies the hybrid shell, the analog somatosensory interface, the autonomous energy metabolism, the operational protocol (DS 2.6-W), and explicit falsification conditions.
@@ -37,6 +39,8 @@ The UNIT 02-W shell is not a monolith. It is a segmented network of resonators c
 
 ### 2.1 Three-Layer Architecture
 
+![layers](UNIT02-W_shell_architecture.png)
+
 **Outer layer** — Adaptive Carbon-Titanium Weave with a nanoceramic coating. Its function is mechanical protection against regolith and micrometeorites. Mass of this layer: ~3 kg/m². It performs no phase function — it is passive armor whose sole task is preserving the integrity of the inner layers.
 
 **Middle layer** — segmented mycelial-melanin panels (*Cladosporium sphaerospermum* + PEDOT:PSS + Fe₃O₄), constituting ~46% of the shell's biomass. The panels do not form a continuous surface — they are joined by flexible analog-organic (AOC) bridges based on *Physarum polycephalum*. Each panel is an autonomous GCR→bioelectricity transducer operating in the surface-resonator regime, not the waveguide regime. Mass: ~2 kg/m².
@@ -62,6 +66,8 @@ Unlike Living Walls, which regenerate autonomously on the scale of weeks, UNIT 0
 ---
 
 ## 3. Analog Somatosensory Interface
+
+![XXII century technology published in 2026 😊](analog_somatosensory_interface.png)
 
 In the EVA environment, the operator's cognitive attention is fully engaged in the task. Digital HUD displays discretize data, require conscious reading, and are susceptible to single-event upsets caused by GCR. UNIT 02-W replaces information transmission with **modulation of somatosensory perception**. The suit does not display data — it changes the way the operator feels his body and his environment.
 
