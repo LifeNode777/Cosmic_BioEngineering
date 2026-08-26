@@ -117,6 +117,8 @@ Harvested energy is buffered in flexible graphene supercapacitors (energy densit
 
 In the steady state of UNIT 02-W, energy consumption is determined by the balance of harvesting and losses, not by arbitrary engineering design. If the operator is too fatigued (drop in metabolic and kinetic power), harvesting generates less energy. The system automatically reduces consumption, transitioning to SHIELD MODE. If the operator increases effort, harvesting supplies more energy, enabling return to RESONANCE MODE.
 
+![autonomous_metabolic_energetics](autonomous_metabolic_energetics.png)
+
 The system will not allow the operator to be exhausted below the biological safety threshold. Technology adapts to the rhythm of life, not the reverse. This is the hardware realization of the embiosis principle: suit and body form a single thermodynamic system in which the operator's mechanical work is the direct drive of system homeostasis.
 
 ---
@@ -138,6 +140,8 @@ The Dynamic Sync cycle of the habitat architecture requires adaptation to the EV
 **HOLD** (EVA active): θ monitoring, coherence maintenance, active harvesting. Without LINK range, the system operates autonomously on the local memory of the wearable core.
 
 **CLOSE** (return to the airlock): Field collapse. Trajectory transfer from the wearable core to Q-Core Space. Reconsolidation with the Golden Record of Eden. Diagnostics of mycelial panel integrity. Transition to REGENERATION MODE. Time: 30–60 s.
+
+![protocol DS 2.6 in suit version](S_2.6-W_suit.png)
 
 Adaptive DMPA modes at personal scale:
 
@@ -171,6 +175,10 @@ The full validation protocol, material specifications, and raw data are publicly
 
 ## 7. Design Philosophy
 
+![dead tech vs LifeNode](paradigms-wrong_vs_correct.png)
+
 UNIT 02-W is not personal protection engineering. It is the engineering of **co-breathing with the cosmos at body scale**. It does not shield from vacuum — it translates vacuum into the language of biology, with different dictionaries than the habitat, but in the same grammatical register of process ontology. The human in EVA is not a passenger in a machine. He is the highest topological invariant of a system whose technology is an extension, not a replacement. In vacuum there is no emptiness. There is only another field. UNIT 02-W allows entering it without losing shape.
 
 👁️
+
+![in Futura ;)](;).png)
