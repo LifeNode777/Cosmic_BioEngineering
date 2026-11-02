@@ -1,4 +1,5 @@
 # THE CIVILIZATION OF LIVING TRAJECTORIES
+![Prologue_1](Prologue_1.png)
 ## From Engineering Life to Learning How to Exist
 
 *We began by asking how to keep Life alive in the cosmos.*
@@ -14,7 +15,7 @@ There is a peculiar limitation hidden inside almost every ambitious technologica
 We imagine a destination, identify the properties required to reach it, and begin constructing the machinery that will carry us there. We define the environment, establish acceptable parameters, calculate tolerances, and design systems capable of maintaining the desired conditions.
 
 The method is powerful. It has carried humanity from caves to orbital laboratories.
-
+![Prologue_2](Prologue_2.png)
 Yet it contains an assumption that becomes increasingly dangerous as our technologies grow more complex: that we already understand what must be preserved.
 
 We know how to measure temperature, pressure, radiation, metabolic activity, and countless other properties of a living system. We can describe an organism through its measurable characteristics, model its responses, and intervene when selected variables move outside acceptable limits.
@@ -26,7 +27,7 @@ What happens when the components survive, but the relationships that made them a
 The question is not whether our instruments are sufficiently precise. It is whether the things we measure are enough to describe the thing we are trying to preserve.
 
 This distinction marks the beginning of the second part of this book.
-
+![Prologue_3](Prologue_3.png)
 The first part explored the possibility that biological survival in unfamiliar environments may require more than reproducing terrestrial conditions inside an artificial enclosure. It introduced a technical vocabulary for thinking about rhythms, trajectories, synchronization, biological time, and the relationship between an organism and its environment. It proposed architectures through which some of these ideas might eventually be investigated and engineered.
 
 Those proposals remain at different levels of maturity. Some provide conceptual frameworks. Others suggest mathematical models or possible engineering implementations. Their physical assumptions and predictions require experiments capable of distinguishing what works from what merely appears plausible.
@@ -46,7 +47,7 @@ An organism can reorganize itself in response to conditions that did not exist w
 A civilization can change the very conditions under which its descendants will live.
 
 These are not equivalent capabilities. They represent different degrees of participation in the production of the future. 👁️
-
+![Prologue_4](Prologue_4.png)
 The difference becomes particularly important when we leave the environment in which terrestrial life evolved. A spacecraft can transport organisms across astronomical distances while remaining conceptually indifferent to the histories, relationships, and developmental possibilities of those organisms. It can succeed as a vehicle without necessarily becoming a suitable foundation for a living world.
 
 The next step, therefore, may not be to build a more sophisticated container.
@@ -74,7 +75,7 @@ The present does not contain the whole explanation of itself.
 This observation leads to a foundational proposition of processual thinking:
 
 **To understand a system, we must investigate not only what it is, but how it became what it is, what it is becoming, and which futures remain possible to it.**
-
+![Prologue_5](Prologue_5.png)
 This proposition does not make states irrelevant. States are indispensable descriptions of particular moments. The problem begins when a description of a moment is mistaken for a complete account of the system.
 
 The trajectory restores what the snapshot leaves out.
@@ -106,7 +107,7 @@ The objective is not to surrender control.
 It is to distinguish control that preserves the capacity for adaptation from control that gradually removes it.
 
 ### III. Synchronization without uniformity
-
+![Prologue_6](Prologue_6.png)
 A civilization capable of sustaining living trajectories must confront a problem that conventional engineering often simplifies: how can many different processes remain coordinated without being forced into the same rhythm?
 
 Cells, organs, organisms, ecosystems, machines, and human institutions operate on different timescales. Their cycles overlap, interact, and sometimes conflict. A change that appears instantaneous at one scale may be invisible at another. A slow process can nevertheless reorganize the conditions governing thousands of faster processes.
@@ -128,7 +129,7 @@ Perhaps the most important question for future engineering will not be how to el
 Perhaps it will be how to recognize which deviations threaten the system, which reveal its capacity to adapt, and which announce the emergence of a new organizational possibility.
 
 ### IV. The right to become something else
-
+![Prologue_7](Prologue_7.png)
 There is also an ethical dimension to processual thinking.
 
 If we define a living system entirely through a predetermined target state, then every transformation becomes a potential failure. Development is acceptable only while it follows the trajectory anticipated by the designer.
@@ -160,7 +161,7 @@ Who determines which transformations are permitted? Who bears the consequences o
 A civilization of living trajectories would need to address these questions alongside its engineering problems.
 
 ### V. Beyond the container
-
+![Prologue_8](Prologue_8.png)
 The ultimate ambition of cosmic bioengineering may not be to reproduce Earth in miniature.
 
 Earth is not a finished machine whose components can simply be copied. It is an evolving history of biological, geological, chemical, and physical processes that have interacted over immense periods of time. Any artificial habitat will begin with severe constraints and incomplete knowledge.
