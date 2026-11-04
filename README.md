@@ -1,3 +1,9 @@
+![Cosmic BioEngineering Part 2](PERFECT_IS_NOT_ENOUGH.png)
+
+
+
+
+
 # Kwantowy Kompas w Głębokim Kosmosie: Jak Odkrycie CISS w Kryptochromach Potwierdza Teorię "Quantum Phase Drift" i Zmienia Oblicze Kosmicznej Bioinżynierii
 ![CISS_cryptochrome_cosmic_bioengineering](img/CISS_cryptochrome_cosmic_bioengineering.jpg)
 **Dlaczego astronauci w głębokim kosmosie ulegają degradacji, nawet gdy wszystkie parametry podtrzymania życia są idealne?**
