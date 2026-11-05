@@ -1,8 +1,28 @@
 ![Cosmic BioEngineering Part 2](PERFECT_IS_NOT_ENOUGH.png)
 
+**PERFECT IS NOT ENOUGH.**
 
+A system can keep every parameter nominal  
+and still be dying.
 
+Maintaining function is not the same  
+as maintaining the capacity to become.
 
+One habitat corrects every deviation  
+until nothing unexpected can happen.  
+Another allows limited disorder  
+and keeps alternative paths open.
+
+Only the disturbance no one planned for  
+reveals which one was still alive.
+
+Stability without the power to change  
+is just a slower form of extinction.
+
+— *A Life That Can Still Become*
+
+---
+---
 
 # Kwantowy Kompas w Głębokim Kosmosie: Jak Odkrycie CISS w Kryptochromach Potwierdza Teorię "Quantum Phase Drift" i Zmienia Oblicze Kosmicznej Bioinżynierii
 ![CISS_cryptochrome_cosmic_bioengineering](img/CISS_cryptochrome_cosmic_bioengineering.jpg)
