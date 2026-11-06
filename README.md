@@ -1,3 +1,25 @@
+![Cosmic BioEngineering Part 2](img/WE_NEED_A_DIFFERENT_DAWN.png)
+
+**WE NEED A DIFFERENT DAWN.**
+
+The first habitat carried an Earth sunrise into orbit.
+For the people who built it, waking to that light
+was one small part of coming home.
+
+Years later, their children asked for another hour of dark.
+Someone had to unlock the lighting controls.
+Until then, nobody had thought of sunrise
+as something you needed permission to change.
+
+Across the gap, a woman raises her hand.
+She can still see the morning her parents brought from Earth.
+Tomorrow she gets to decide when hers begins.
+
+— *The Politics of Biological Time*
+
+---
+---
+
 ![Cosmic BioEngineering Part 2](PERFECT_IS_NOT_ENOUGH.png)
 
 **PERFECT IS NOT ENOUGH.**
